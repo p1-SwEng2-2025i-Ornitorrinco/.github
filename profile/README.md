@@ -37,7 +37,7 @@ En muchas comunidades, existen individuos con habilidades y conocimientos útile
 
 ## Instalación y Uso
 
-> **Nota:** Requiere Node.js >= 14, base de datos PostgreSQL 12+
+> **Nota:** Requiere Node.js >= 14, base de datos MongoBD
 
 1. Clona el repositorio:
 
@@ -61,15 +61,6 @@ En muchas comunidades, existen individuos con habilidades y conocimientos útile
    npm start
    ```
 6. Abre `http://localhost:3000` en tu navegador.
-
----
-
-## Contribuir
-
-1. Haz un *fork* del repositorio.
-2. Crea una rama con tu característica: `git checkout -b feature/nombre-feature`.
-3. Realiza *commits* claros y descriptivos.
-4. Envía un *pull request* detallando los cambios.
 
 ---
 
