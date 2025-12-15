@@ -58,7 +58,7 @@ git clone https://github.com/p1-SwEng2-2025i-Ornitorrinco/SevicioPublicarOferta.
 git clone https://github.com/p1-SwEng2-2025i-Ornitorrinco/transacciones-api.git
 git clone https://github.com/p1-SwEng2-2025i-Ornitorrinco/reviews-service.git
 
-# Mobile app (optional)
+# Mobile app
 git clone https://github.com/Dacosta99/SkilltradeMovil.git
 ```
 
